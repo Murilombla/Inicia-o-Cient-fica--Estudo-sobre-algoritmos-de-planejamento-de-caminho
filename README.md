@@ -1,1 +1,1 @@
-# Inicia-o-Cient-fica--Estudo-sobre-algoritmos-de-planejamento-de-caminho
+# Iniciação-Científica--Estudo-sobre-algoritmos-de-planejamento-de-caminho
